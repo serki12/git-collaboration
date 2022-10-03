@@ -2,4 +2,4 @@
 A repository to test out collaboration with git
 test 
 
-Collaborators: _________________
+Collaborators: Jessica Rodrigues and Rosita Emakpo
